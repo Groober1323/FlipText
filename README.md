@@ -13,21 +13,21 @@ FlipText is a simple and efficient console application that transforms input tex
 - 🎨 Simple and intuitive interface
 - 💻 Cross-platform compatibility
 
-##🛠 Technologies
+## 🛠 Technologies
 
 - C++11
 - STL Standard Library
 - Cross-platform solutions
 
-##📝 License
+## 📝 License
 
 MIT License - free to use and modify
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##📊 Version History
+## 📊 Version History
 
 1.0.0
 
